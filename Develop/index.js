@@ -26,6 +26,11 @@ const questions = [
        name: 'usage', 
     },
     {
+        type: 'input',
+        message: 'Added contributers to your list of credits if you have any',
+        name: 'credits'
+    },
+    {
         type: 'list',
         message: 'What license do you have?',
         name: 'license',

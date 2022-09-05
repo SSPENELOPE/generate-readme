@@ -1,6 +1,6 @@
-# A New Project 
+# Title 
   ## Description
-  - adkjf;asldkjf;asldkfjasd;lfk
+  - dasfjasdlfkjasdlfkjasdflkj
   ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
@@ -9,7 +9,9 @@
   ## Installation
   - undefined
   ## Usage 
-  - asdfasdfasdfasdfasdwf
+  - aalsdkfjasldkfjasdf
+  ## Credits
+  - - ME \n Myself \n And I
   ## License
   - The MIT License 
 

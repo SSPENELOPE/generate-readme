@@ -35,6 +35,21 @@ const questions = [
         message: 'What license do you have?',
         name: 'license',
         choices: ['None', 'The MIT License', 'The GPL License', 'Apache 2.0']
+    },
+    {
+        type: 'input',
+        message:'How can people contribute to your repository?',
+        name: 'contribute',
+    },
+    {
+        type: 'input',
+        message: 'What is your github profile link?',
+        name: 'github',
+    },
+    {
+        type: 'input',
+        message: 'What is your email?',
+        name: 'email'
     }
 ];
 // TODO: Create a function to initialize app

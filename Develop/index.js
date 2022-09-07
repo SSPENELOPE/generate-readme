@@ -34,7 +34,7 @@ const questions = [
         type: 'list',
         message: 'What license do you have?',
         name: 'license',
-        choices: ['The MIT License', 'The GPL License']
+        choices: ['None', 'The MIT License', 'The GPL License', 'Apache 2.0']
     }
 ];
 // TODO: Create a function to initialize app

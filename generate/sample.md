@@ -1,9 +1,9 @@
 # ![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
   
-  # Projec Title here
+  # Title goes here
 
   ## Description
-  - asdlkfjasdjf
+  - This is where we put the description
 
   ## Table of Contents
   - [Installation](#installation)
@@ -12,24 +12,24 @@
   - [License](#License)
 
   ## Installation
-  - asdlkfjasdlkfj
+  - Install
 
   ## Usage 
-  - asdlkfjasdl;kfj
+  - You can use this app here
 
   ## Credits
-  - asdlkjfals;dkfj
+  - There are no contributer
 
   ## License
-  - This repository is licensed under 'The MIT License' 
-  - (https://opensource.org/licenses/MIT)
+  - This repository is licensed under 'The Apache 2.0 License' 
+  - (https://opensource.org/licenses/Apache-2.0)
 
   ## Contributing
-  - asdfasdf
+  - I dont want any right now
 
   # Test Instructions
-  - asdfasdf
+  - 
 
   ## Questions
-  - You can view this repository on my github page asdfasdf
-  - If you have any questions you can email me at asdf
+  - You can view this repository on my github page github.link
+  - If you have any questions you can email me at email@email.comi

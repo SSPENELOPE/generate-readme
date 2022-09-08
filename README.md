@@ -16,7 +16,7 @@
 
 ![alt text](./images/app-screenshot.png)
 
-- Video is coming soon
+- You can watch the tutorial on how to use this application at https://www.youtube.com/watch?v=CBK72DxMM-g
 
 ## Credits
 - The UofM Coding Bootcamp for the starter code

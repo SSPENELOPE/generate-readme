@@ -3,7 +3,7 @@
   # Title goes here
 
   ## Description
-  - This is where we put the description
+  - This is the description
 
   ## Table of Contents
   - [Installation](#installation)
@@ -12,24 +12,24 @@
   - [License](#License)
 
   ## Installation
-  - Install
+  - Install steps here
 
   ## Usage 
-  - You can use this app here
+  - You can just use it
 
   ## Credits
-  - There are no contributer
+  - User 1 and user 2
 
   ## License
   - This repository is licensed under 'The Apache 2.0 License' 
   - (https://opensource.org/licenses/Apache-2.0)
 
   ## Contributing
-  - I dont want any right now
+  - You can contribute however you want, this is open source
 
   # Test Instructions
-  - 
+  - This is the test, this is how you use it
 
   ## Questions
   - You can view this repository on my github page github.link
-  - If you have any questions you can email me at email@email.comi
+  - If you have any questions you can email me at email@email.com

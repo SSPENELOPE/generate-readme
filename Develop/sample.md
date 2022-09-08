@@ -1,7 +1,9 @@
-# Title Goes Here
+# ![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
+  
+  # Title
 
   ## Description
-  - This is where the description would go
+  - Description
 
   ## Table of Contents
   - [Installation](#installation)
@@ -10,20 +12,24 @@
   - [License](#License)
 
   ## Installation
-  - This is where you list out how to use your application
+  - HOW TO INSTALL
 
   ## Usage 
-  - Never Mind this is where you list out how to use your application
+  - USE THE APP
 
   ## Credits
-  - Eh
+  - 54
 
   ## License
-  - ![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)(https://opensource.org/licenses/Apache-2.0)
+  - This repository is licensed under 'The Apache 2.0 License' 
+  - (https://opensource.org/licenses/Apache-2.0)
 
   ## Contributing
-  - Tell people how to contribute here
+  - THEY DONT
+
+  # Test Instructions
+  - NO
 
   ## Questions
-  - You can view this repository on my github page github.link
-  - If you have any questions you can email me at email.email
+  - You can view this repository on my github page LINK
+  - If you have any questions you can email me at EMAIL@EMAIL.COM

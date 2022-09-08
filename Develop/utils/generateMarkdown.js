@@ -65,6 +65,9 @@ function generateMarkdown(data) {
   ## Contributing
   - ${data.contribute}
 
+  # Test Instructions
+  - ${data.test}
+
   ## Questions
   - You can view this repository on my github page ${data.github}
   - If you have any questions you can email me at ${data.email}

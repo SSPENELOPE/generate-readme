@@ -43,6 +43,11 @@ const questions = [
     },
     {
         type: 'input',
+        message: 'Are there any test with your application and how do you use them?',
+        name: 'test',
+    },
+    {
+        type: 'input',
         message: 'What is your github profile link?',
         name: 'github',
     },
@@ -57,7 +62,7 @@ const questions = [
 function init() {
     inquirer.prompt(questions).then(   
     answers => { 
-        fs.writeFile('sample.md', generateMarkdown(answers), err => err ? console.log(err) : console.log('sweet'));
+        fs.writeFile('sample.md', generateMarkdown(answers), err => err ? console.log(err) : console.log('Nicely Done'));
     }
     )
          

@@ -3,7 +3,7 @@
 function renderLicenseBadge(license) {
   let userLicenseBadge = '';
   if (license.license === 'The MIT License') {
-      userLicenseBadge = `![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)`
+      userLicenseBadge = `![License](https://img.shields.io/badge/License-MIT-yellow.svg)`
   } else if(license.license === 'The GPL License'){
     userLicenseBadge = `![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)`
   } else if (license.license === 'Apache 2.0') {

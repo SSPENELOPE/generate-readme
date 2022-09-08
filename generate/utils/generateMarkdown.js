@@ -9,7 +9,7 @@ function renderLicenseBadge(license) {
   } else if (license.license === 'Apache 2.0') {
     userLicenseBadge = `![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)`
   } else {
-    userLicenseBadge = '';
+   return;
   }
     return userLicenseBadge;
 }
@@ -25,7 +25,7 @@ function renderLicenseLink(license) {
   } else if (license.license === 'Apache 2.0') {
     userLicenseLink = `(https://opensource.org/licenses/Apache-2.0)`
   } else {
-    userLicenseLink = ``;
+   return
   }
     return userLicenseLink;
 }
@@ -41,7 +41,7 @@ function renderLicenseSection(license) {
   } else if (license.license === 'Apache 2.0') {
     licenseSection = `This repository is licensed under 'The Apache 2.0 License'`
   } else {
-    licenseSection = ``;
+    return;
   }
   return licenseSection;
 }
